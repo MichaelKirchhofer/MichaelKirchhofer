@@ -1,6 +1,8 @@
 Hi I am Michael Kirchhofer,
 
-I am currently studying at the FH Technikum in Vienna.
+I am currently studying for my Bachelor Degree at the FH Technikum in Vienna.
+
+Please feel free to look at my public repositories and I am always happy to hear feedback about my code :)
 
 <!---
 MichaelKirchhofer/MichaelKirchhofer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
