@@ -1,6 +1,6 @@
 Hi I am Michael Kirchhofer,
 
-I am currently studying for my Bachelor Degree at the FH Technikum in Vienna.
+I am currently studying for my Bachelors Degree at the FH Technikum in Vienna.
 
 Please feel free to look at my public repositories and I am always happy to hear feedback about my code :)
 
